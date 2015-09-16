@@ -1,0 +1,21 @@
+.column {
+	color: yellow;
+}
+
+h1 {color:blue;
+}
+
+p.important {color: orange;}
+
+.sidebar {
+	background-color: gray;
+}
+
+.bill {
+	float: right;
+	background-color: blue;
+}
+
+.frank {
+	float: left;
+}
