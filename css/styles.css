@@ -12,14 +12,29 @@ p.important {color: orange;}
 }
 
 .bill {
+	border: 1px red;
+
+	width: 30%;
 	float: right;
 	background-color: blue;
 }
 
-.frank {
-	float: left;
-}
 
 .container {
+	width: 70%;
+	float: left;
 	background-color: green;
+}
+
+.box {
+	border: 1px solid green;
+	padding: 4px;
+	background-color: gray;
+}
+
+html {
+	background-color: gray;
+}
+.row {
+	background-color: red;
 }
