@@ -1,14 +1,11 @@
-.column {
-	color: yellow;
-}
 
-h1 {color:blue;
-}
-
-p.important {color: orange;}
+html {background-color: gray;}
 
 .sidebar {
-	background-color: gray;
+	margin: 5px;
+	border: 1px #F0F0F0;
+	padding: 3px;
+	background-color: #F0F0F0;
 }
 
 .bill {
