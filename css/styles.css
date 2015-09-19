@@ -14,12 +14,13 @@ html {background-color: gray;}
 }
 
 .frank {
+	width: 70%;
 	float: left;
+	background-color: #7CCD7C;
 }
 
-.container {
-	background-color: green;
-}
+
+
 
 .row {
 	background-color: #FFB6C1;
