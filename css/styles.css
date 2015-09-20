@@ -31,8 +31,19 @@ html {background-color: gray;}
 
 
 .row {
+	font-weight: bold;
 	margin-left: 7px;
 	margin-right: 6px;
 	padding: 6px;
 	background-color: #FFB6C1;
 }
+
+.wow a {
+	color: blue;
+}
+
+.moo a {
+	color: #CD2990;
+}
+
+
