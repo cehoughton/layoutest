@@ -1,6 +1,7 @@
 
 html {background-color: gray;}
 
+
 .sidebar {
 	margin-left: 7px;
 	margin-right: 6px;
@@ -44,6 +45,10 @@ html {background-color: gray;}
 
 .moo a {
 	color: #CD2990;
+}
+
+.column2 a {
+	color: blue;
 }
 
 
