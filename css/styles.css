@@ -1,6 +1,5 @@
 
 html {background-color: gray;}
- 
 
 .sidebar {
 	margin-left: 7px;
@@ -10,27 +9,6 @@ html {background-color: gray;}
 	background-color: #F0F0F0;
 }
 
-.bill {
-	margin-left: 0%;
-	margin-right: 6px;
-	padding: 6px;
-	width: 28%;
-	float: right;
-	background-color: #7D9EC0;
-}
-
-.frank {
-	margin-left: 7px;
-	margin-right: 0%;
-	padding: 6px;
-	width: 69%;
-	float: left;
-	background-color: #7CCD7C;
-}
-
-
-
-
 .row {
 	font-weight: bold;
 	margin-left: 7px;
@@ -39,15 +17,33 @@ html {background-color: gray;}
 	background-color: #FFB6C1;
 }
 
-.wow a {
+.column1 {
+	margin-left: 7px;
+	margin-right: 0%;
+	padding: 6px;
+	width: 69%;
+	float: left;
+	background-color: #7CCD7C;
+}
+
+.example1 a {
 	color: blue;
 }
 
-.moo a {
+.example2 a {
 	color: #CD2990;
 }
 
-.column2 a {
+.column2 {
+	margin-left: 0%;
+	margin-right: 6px;
+	padding: 6px;
+	width: 28%;
+	float: right;
+	background-color: #7D9EC0;
+}
+
+.list a {
 	color: blue;
 }
 
