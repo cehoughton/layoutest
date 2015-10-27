@@ -1,24 +1,20 @@
-# _{Layout Test}_
+    Layout Test
 
-#####  {9/18/2015}_
+9/18/2015
 
-#### By _**{Chris Houghton}**_
+By Chris Houghton
 
-## Description
+Description
 
-_{This is a code review for Epicodus intro to programming}_
+This is a code review for Epicodus intro to programming
 
-## Setup
+Setup
 
-* _Goto https://github.com/cehoughton/layoutest.git_
+Goto http://cehoughton.github.io/layoutest
 
+Legal
 
-
-### Legal
-
-*{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
-
-Copyright (c) 2015 **_{List of contribtors}_**
+Copyright (c) 2015 Chris Houghton
 
 This software is licensed under the MIT license.
 
