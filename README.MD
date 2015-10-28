@@ -8,6 +8,8 @@ Description
 
 This is a code review for Epicodus intro to programming
 
+Layout test using HTML and CSS
+
 Setup
 
 Goto http://cehoughton.github.io/layoutest
