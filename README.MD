@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # _{Application Name}_
 
 ##### _{Brief description of application}, {Date of current version}_
@@ -27,6 +28,27 @@ _{Tell me about the languages you used to create this app. Assume that I know yo
 *{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
 
 Copyright (c) 2015 **_{List of contribtors}_**
+=======
+    Layout Test
+
+9/18/2015
+
+By Chris Houghton
+
+Description
+
+This is a code review for Epicodus intro to programming
+
+Layout test using HTML and CSS
+
+Setup
+
+Goto http://cehoughton.github.io/layoutest
+
+Legal
+
+Copyright (c) 2015 Chris Houghton
+>>>>>>> master
 
 This software is licensed under the MIT license.
 
